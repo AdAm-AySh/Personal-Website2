@@ -10,7 +10,7 @@
     color: black;
 }
 .up{
-    background-image: linear-gradient(to bottom left, #44ECE9, #00F790);
+    background-image: linear-gradient(to bottom left, #44ECE9, #ffe0fd);
     min-height: 103vh;
 }
 header{
@@ -152,4 +152,5 @@ header ul li a:hover{
 }
 .about .icons a i:hover{
     translate: 0 -5px;
+
 }
