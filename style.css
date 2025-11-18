@@ -34,7 +34,7 @@ header ul li a:hover{
     color: white;
 }
 .content{
-    width: 92%;
+    width: 90%;
     margin: auto;
     margin-top: 87px;
 }
@@ -147,11 +147,10 @@ header ul li a:hover{
 .about .icons a i{
     zoom: 1.5;
     color: #2BDB8F;
-    padding: 0 5px;
+    padding: 0 10px;
     transition: 0.3s;
 }
 .about .icons a i:hover{
-    translate: 0 -5px;
+    scale: 1.5;
 
 }
-
