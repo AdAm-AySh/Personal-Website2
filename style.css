@@ -111,7 +111,7 @@ header ul li a:hover{
     line-height: 1.8;
 }
 .content .left img{
-    width: 39vw;
+    width: 65vw;
     border-radius: 50%;
     margin-left: 50px;
 }
@@ -202,4 +202,5 @@ header ul li a:hover{
 }
 .about .icons a i:hover{
     scale: 1.5;
+
 }
